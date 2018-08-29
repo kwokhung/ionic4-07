@@ -21,6 +21,9 @@ npm install --save echarts-liquidfill
 # Rebuild
 npm rebuild node-sass
 
+# status bar
+ionic cordova plugin add cordova-plugin-statusbar
+
 # barcode scanner
 ionic cordova plugin add phonegap-plugin-barcodescanner
 npm install --save @ionic-native/barcode-scanner
